@@ -1,0 +1,26 @@
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\bin\Debug\net8.0\C Sharp Inlamningsuppgift G.exe
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\bin\Debug\net8.0\C Sharp Inlamningsuppgift G.deps.json
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\bin\Debug\net8.0\C Sharp Inlamningsuppgift G.runtimeconfig.json
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\bin\Debug\net8.0\C Sharp Inlamningsuppgift G.dll
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\bin\Debug\net8.0\C Sharp Inlamningsuppgift G.pdb
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\bin\Debug\net8.0\Moq.dll
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\bin\Debug\net8.0\xunit.core.dll
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\obj\Debug\net8.0\C Sharp Inlamningsuppgift G.csproj.AssemblyReference.cache
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\obj\Debug\net8.0\C Sharp Inlamningsuppgift G.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\obj\Debug\net8.0\C Sharp Inlamningsuppgift G.AssemblyInfoInputs.cache
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\obj\Debug\net8.0\C Sharp Inlamningsuppgift G.AssemblyInfo.cs
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\obj\Debug\net8.0\C Sharp Inlamningsuppgift G.csproj.CoreCompileInputs.cache
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\obj\Debug\net8.0\C Sharp Inlamningsuppgift G.sourcelink.json
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\obj\Debug\net8.0\C Sharp .3EC02637.Up2Date
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\obj\Debug\net8.0\C Sharp Inlamningsuppgift G.dll
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\obj\Debug\net8.0\refint\C Sharp Inlamningsuppgift G.dll
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\obj\Debug\net8.0\C Sharp Inlamningsuppgift G.pdb
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\obj\Debug\net8.0\C Sharp Inlamningsuppgift G.genruntimeconfig.cache
+C:\Users\linus\source\repos\C Sharp Inlamningsuppgift G\obj\Debug\net8.0\ref\C Sharp Inlamningsuppgift G.dll
